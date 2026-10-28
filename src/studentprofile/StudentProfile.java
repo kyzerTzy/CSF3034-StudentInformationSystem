@@ -16,9 +16,7 @@ public class StudentProfile {
     public static void main(String[] args) {
         
         double pi = 3.142;
-        int a;
-        int b;
-        int c;
+    
         // TODO code application logic here
         
         System.out.println("Semester: Semester 1"); 
