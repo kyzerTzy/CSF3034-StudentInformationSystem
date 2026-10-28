@@ -14,6 +14,8 @@ public class StudentProfile {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        double pi = 3.142;
         // TODO code application logic here
         
         System.out.println("Name: SYED AKIL IKMAL BIN SYED ADAM MAT NAWEE"); 
