@@ -18,21 +18,17 @@ public class StudentInformationSystem {
         String name = "SYED AKIL IKMAL BIN SYED ADAM MAT NAWEE";
         String studentId = "S87081";
 
-        // Two marks stored in variables
         int mark1 = 45;
         int mark2 = 40;
-
-        // Calculate total
+       
         int total = mark1 + mark2;
-
-        // Display details
+      
         System.out.println("Name: " + name);
         System.out.println("Student ID: " + studentId);
         System.out.println("Mark 1: " + mark1);
         System.out.println("Mark 2: " + mark2);
         System.out.println("Total Mark: " + total);
 
-        // Message based on total
         if (total >= 80) {
             System.out.println("Result: Excellent");
         } else if (total >= 50) {
