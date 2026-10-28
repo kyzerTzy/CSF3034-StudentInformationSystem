@@ -15,9 +15,7 @@ public class StudentProfile {
      */
     public static void main(String[] args) {
         
-        double pi = 3.142;
-    
-        // TODO code application logic here
+
         
         System.out.println("Semester: Semester 1"); 
         System.out.println("Favourite Language: Java"); 
