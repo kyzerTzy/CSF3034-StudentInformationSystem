@@ -19,6 +19,7 @@ public class StudentProfile {
         int a;
         int b;
         int c;
+        int d;
         // TODO code application logic here
         
         System.out.println("Name: SYED AKIL IKMAL BIN SYED ADAM MAT NAWEE"); 
