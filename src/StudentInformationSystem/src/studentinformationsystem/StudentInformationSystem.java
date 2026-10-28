@@ -19,7 +19,7 @@ public class StudentInformationSystem {
         String studentId = "S87081";
 
         int mark1 = 45;
-        int mark2 = 40;
+        int mark2 = 70;
        
         int total = mark1 + mark2;
       
