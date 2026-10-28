@@ -18,6 +18,7 @@ public class StudentProfile {
         double pi = 3.142;
         int a;
         int b;
+        int c;
         // TODO code application logic here
         
         System.out.println("Name: SYED AKIL IKMAL BIN SYED ADAM MAT NAWEE"); 
